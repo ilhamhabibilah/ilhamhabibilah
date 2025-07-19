@@ -19,10 +19,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to GitHub Pages (output branch)
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
+      - name: Push the generated SVG to output branch
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          
+          git clone --branch=output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} output-branch
+          cp dist/github-contribution-grid-snake.svg output-branch/
+          
+          cd output-branch
+          git add github-contribution-grid-snake.svg
+          git commit -m "update snake animation"
+          git push
