@@ -1,22 +1,43 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ilham Habibilah</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">Hi there, I'm Muhammad Ilham Habibilah👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamhabibilah&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamhabibilah" /> </p>
-
-- 📫 How to reach me **milhamhabibilah@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-ilham-habibilah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ilham habibilah" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Aspiring+Front-End+Developer;Always+Learning+Something+New;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamhabibilah&show_icons=true&locale=en&layout=compact" alt="ilhamhabibilah" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilhamhabibilah&show_icons=true&locale=en" alt="ilhamhabibilah" /></p>
+- 🎓 Currently learning: **JavaScript**, **React**, and **Firebase**
+- 🔎 Solving coding problems on [LeetCode](https://leetcode.com/u/habib_yagami/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamhabibilah&" alt="ilhamhabibilah" /></p>
+---
+
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ilhamhabibilah/ilhamhabibilah/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-ilham-habibilah/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/habib_yagami/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
